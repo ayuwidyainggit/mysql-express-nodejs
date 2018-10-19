@@ -135,7 +135,15 @@ ditampilin ke json.
  file ini digunakan untuk menuliskan routes atau endpoint apa saja yang ada di rest api kita.
 
 
+15. jalankan server untuk membuka port nya
+node server.js
 
+16. akses ke localhost 3000
+http://localhost:3000/users
+
+hasil :
+
+![jungkook](https://github.com/ayuwidyainggit/mysql-express-nodejs/blob/master/images/Screenshot_1.png)
 
    
    
